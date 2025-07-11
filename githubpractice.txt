@@ -10,3 +10,11 @@ git diff --staged: changed but not staged(not commited basically).
 
 git branch branch_name: to create new branch.
 git checkout: to change from main to new branch.
+
+to merge both: git merge branch_name(e.g test) -> it will be merging both
+		branch in local directory only, to merge in remote also 
+		do run -> git push origin main after merge command.
+
+git log -> shows commit histories.
+git log -p -3 -> for last three logs. and according change number, to get last n.
+
