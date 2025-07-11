@@ -6,3 +6,4 @@ git status shows:
 	Untracked files
 	Current branch info
 
+git diff --staged: changed but not staged(not commited basically).
