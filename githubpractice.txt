@@ -1,2 +1,8 @@
-Hiiii, This is prakruti panchal, 
-CEO of Saiman.
+git init:  creates a new, empty Git repository in the current folder by adding a hidden .git directory that tracks changes.
+
+git status: 
+git status shows:
+	Changed files (staged/unstaged)
+	Untracked files
+	Current branch info
+
