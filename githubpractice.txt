@@ -7,3 +7,6 @@ git status shows:
 	Current branch info
 
 git diff --staged: changed but not staged(not commited basically).
+
+git branch branch_name: to create new branch.
+git checkout: to change from main to new branch.
